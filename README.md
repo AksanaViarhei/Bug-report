@@ -1,1 +1,2 @@
 # Bug-report
+I've participated in testing of "Belarussian Volleyball Federation" app during my studying at Software Testing Laboratory, EPAM Systems. Here you can find examples of my bug reports after testing of "Belarussian Volleyball Federation" app, "Clubs" module. Please fpllow [this link](https://docs.google.com/spreadsheets/d/1aGco__1MfHi7L4O_QY8Ms_GA7A3duzlE/edit?usp=sharing&ouid=102489883496474605071&rtpof=true&sd=true).
